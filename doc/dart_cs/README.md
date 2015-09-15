@@ -12,11 +12,4 @@
 [Function Declaration](function.md)
 
 ---
-# Directives
-- Group directives ( bool | {except: [import, library, package, part, part of, ...]})
-
-- Directives on top (bool)
-
-- Directives Order ( asc | dec | nat-asc | nat-dec )
-
-- Newline before each directive type ( bool | all | [import, library, package, part, part of, ...] | {value: <>,except : ['first']);
+# Dart Code style check rules
